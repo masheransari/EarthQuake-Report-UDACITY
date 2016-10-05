@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_3d1b44ffe6e66008fbad3aae865a4156f1119868.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_f7d1278b45166baf895549253db3eb73479a26b8.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_74bc81864795f3bb5b4640ba16a7f11d22a3dc84.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_a18a3ca668afbd2410303822bcdded58ad882aa7.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="257465a4e8fe599bacc8e223c28c3012650edb1e">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\instant-run_68d290adb92fc73cf404eac0f1d296620b45384e.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4f26c92587bc3b3948c3aba0c3ae741114f68a2a">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e37d9552ffb5c102d22ebd76a0e0a5df34d2b6ad.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_b6f95201c3d2db0bdffc1c42cec8a116dc1419e5.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_35ebaa87cb70285243a3dc5228ce55e56a9f1cb4.jar" />
+    </item>
+    <item
+        jar="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-24.1.1_c0ae0e0b705f0e1cf9aa557ad71e9071a9388a25.jar" />
+    </item>
+    <item
+        jar="C:\Users\asher.ansari\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Asher\Projects\android\Udacity\EarthQuake\Chapter_3\NetworkConnect1\Application\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_a1d3416271eb18662925dbb1d24df51be3498ad4.jar" />
+    </item>
+
+</items>

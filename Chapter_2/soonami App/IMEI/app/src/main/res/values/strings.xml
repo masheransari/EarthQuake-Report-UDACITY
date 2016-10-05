@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMEI</string>
+    <string name="permission_read_phone_state_rationale">permission.READ_PHONE_STATE</string>
+    <string name="permissions_not_granted_read_phone_state">Not Allows</string>
+</resources>
