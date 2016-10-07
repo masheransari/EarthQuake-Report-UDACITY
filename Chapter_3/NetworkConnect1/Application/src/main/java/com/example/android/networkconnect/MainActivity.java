@@ -122,7 +122,9 @@ public class MainActivity extends FragmentActivity {
         try {
             stream = downloadUrl(urlString);
             str = readIt(stream, 500);
-       } finally {
+       }
+        finally
+        {
            if (stream != null) {
                stream.close();
             }
